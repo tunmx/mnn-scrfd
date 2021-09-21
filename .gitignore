@@ -1,0 +1,6 @@
+.idea/
+./cmake-build-debug/*
+*.zip
+3rdparty/*
+cmake-build-debug/*
+build/
